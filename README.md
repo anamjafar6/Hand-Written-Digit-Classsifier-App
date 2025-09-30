@@ -42,11 +42,8 @@ The app uses a trained CNN model (from the MNIST dataset) to predict digits from
 git clone https://github.com/your-username/mnist-digit-recognition-app.git
 cd mnist-digit-recognition-app
 
+
 ## Deployment
 
 This app can be deployed easily on:
 Hugging Face Spaces
-
-Author
-Anam Jafar
-
